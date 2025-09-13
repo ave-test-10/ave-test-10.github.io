@@ -1,0 +1,1 @@
+import{fD as t,am as e}from"./DSdTrpjV.js";const o={install(o){t._context=o._context,e._context=o._context,o.directive("loading",e),o.config.globalProperties.$loading=t},directive:e,service:t};export{o as E};
