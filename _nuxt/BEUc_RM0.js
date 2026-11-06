@@ -1,0 +1,1 @@
+import{t as r}from"./9Ipt-HnY.js";function t(t){!1!==t&&r.error(String(t))}export{t};
